@@ -1,7 +1,7 @@
 from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
-from .models import profile
+from .models import Profile
 
 #cleating a class to allow user to register on the registration page
 class UserRegisterForm(UserCreationForm):
@@ -26,5 +26,5 @@ class UserUpdateForm(forms.ModelForm):
 class ProfileUpdateForm(forms.ModelForm):
 
     class Meta:
-        model = profile
+        model = Profile
         fields = ['image']
