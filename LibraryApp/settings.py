@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('LIB_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tomrec-09e54a9ff364.herokuapp.com']
 
 
 # Application definition
