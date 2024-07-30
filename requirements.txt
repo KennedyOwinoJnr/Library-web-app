@@ -1,0 +1,11 @@
+asgiref==3.8.1
+crispy-bootstrap4==2024.1
+Django==5.0.7
+django-bootstrap4==24.3
+django-crispy-forms==2.2
+gunicorn==22.0.0
+hpack==4.0.0
+mkl-service==2.4.0
+ply==3.11
+PyQt5==5.15.10
+pywin32==305.1
