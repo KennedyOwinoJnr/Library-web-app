@@ -9,3 +9,10 @@ hpack==4.0.0
 ply==3.11
 PyQt5==5.15.10
 #pywin32==305.1
+urllib3
+requests
+Pillow
+certifi
+chardet
+idna
+pytz
