@@ -3,6 +3,7 @@ crispy-bootstrap4==2024.1
 Django==5.0.7
 django-bootstrap4==24.3
 django-crispy-forms==2.2
+django-storages
 gunicorn==22.0.0
 hpack==4.0.0
 #mkl-service
