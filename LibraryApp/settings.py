@@ -26,7 +26,7 @@ SECRET_KEY = '31d58ffe130057b11ba4a3a08e16644634c9542c64ad11b6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tomrec-09e54a9ff364.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['tomrec-09e54a9ff364.herokuapp.com', '127.0.0.1', 'library-web-app-1.onrender.com']
 
 
 # Application definition
